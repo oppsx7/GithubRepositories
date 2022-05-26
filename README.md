@@ -20,3 +20,11 @@ In this basic app you can do several things:
     - click on a certain repository
 4.Once clicked on a repository, a screen with branches is shown, with only option to go back.
 5.Enjoy :)
+
+
+# UI Tests
+In order to run UI Tests:
+1.Open the project in XCode
+2.Once opened, go to folder "GitHubRepositoriesUITests"
+3.Click on "GitHubRepositoriesUITests.swift"
+4.Hit the button on line 10 to test the whole class.
