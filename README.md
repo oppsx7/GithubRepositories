@@ -5,7 +5,7 @@ MacOS is Required!!!
 1.Make sure the master branch is selected.
 2.Navigate to "Code" button in green color
 3.Click on "Download ZIP"
-4.Once downloaded, double click on the archive and then open the folder.
+4.Once downloaded, double click on the archive and then open the folder OR if it downloads GithubRepositories-master, directly open the folder and click on GithubRepositories.
 5.Click on "GitHubRepositories.xcodeproj"
 6.When XCode opens, click "CMD + R" and the app will build and run
 
